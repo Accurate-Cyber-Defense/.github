@@ -8,7 +8,7 @@ In addition to its educational and defensive training focus, Accurate Cyber Defe
 
 As cyber threats grow more complex and frequent across Africa, Accurate Cyber Defense is committed to staying ahead of the curve—driven by innovation, expertise, and a mission to secure Malawi’s digital future and beyond. The startup's growing influence across southern Africa makes it a key player in shaping a resilient cybersecurity ecosystem in the region.
 
-## My Skills
+**##Our Skills**
 
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
@@ -18,14 +18,3 @@ As cyber threats grow more complex and frequent across Africa, Accurate Cyber De
 <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 
-## GitHub Stats
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Accurate-Cyber-Defense&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Accurate-Cyber-Defense&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Accurate-Cyber-Defense&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
-## Connect with us
-
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/ian-carter-kulani-913679255/" target="_blank">Accurate Cyber Defense Mw</a> Email: accuratecyberdefense@tutamail.com</p>
