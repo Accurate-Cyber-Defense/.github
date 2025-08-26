@@ -8,6 +8,11 @@ In addition to its educational and defensive training focus, Accurate Cyber Defe
 
 As cyber threats grow more complex and frequent across Africa, Accurate Cyber Defense is committed to staying ahead of the curve—driven by innovation, expertise, and a mission to secure Malawi’s digital future and beyond. The startup's growing influence across southern Africa makes it a key player in shaping a resilient cybersecurity ecosystem in the region.
 
+**Join our Telegram**
+
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/3abd1d3d-3645-458a-aecd-30232b18cfb1" />
+
 **##Our Skills**
 
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
@@ -17,4 +22,6 @@ As cyber threats grow more complex and frequent across Africa, Accurate Cyber De
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+
+
 
