@@ -1,5 +1,9 @@
 ## About us
 
+<img width="1400" height="500" alt="AccQ" src="https://github.com/user-attachments/assets/b840e938-dc08-4fc1-907b-22c23ad42548" />
+
+
+
 Accurate Cyber Defense is a pioneering Malawian cybersecurity startup dedicated to advancing digital resilience through high-impact cyber drills, advanced threat analysis, and cyber awareness initiatives. Headquartered in Malawi, Accurate Cyber Defense has quickly positioned itself as a leader in the southern African cybersecurity landscape, focusing on tailored solutions for both public and private sectors.
 
 At its core, Accurate Cyber Defense specializes in conducting cyber drills—simulated cyberattack scenarios that train organizations to detect, respond to, and recover from real-world threats. These exercises help institutions build practical response strategies, strengthen incident response teams, and uncover vulnerabilities before they can be exploited. The startup also offers cybersecurity awareness programs that empower individuals and organizations with the knowledge to recognize and mitigate common cyber threats.
