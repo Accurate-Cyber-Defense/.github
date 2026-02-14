@@ -1,31 +1,110 @@
-## About us
+## 🛡️ Accurate Cyber Defense
 
-<img width="1400" height="500" alt="AccQ" src="https://github.com/user-attachments/assets/b840e938-dc08-4fc1-907b-22c23ad42548" />
+Advancing Digital Resilience Worldwide — Protecting Critical Infrastructure & National Security
 
+## 🌍 About Us
 
+Accurate Cyber Defense is a pioneering cybersecurity intelligence startup founded in Malawi with a global operational focus. We specialize in strengthening digital resilience through high-impact cyber drills, advanced threat intelligence, defensive engineering, and national infrastructure protection.
 
-Accurate Cyber Defense is a pioneering Malawian cybersecurity startup dedicated to advancing digital resilience through high-impact cyber drills, advanced threat analysis, and cyber awareness initiatives. Headquartered in Malawi, Accurate Cyber Defense has quickly positioned itself as a leader in the southern African cybersecurity landscape, focusing on tailored solutions for both public and private sectors.
+While rooted in Southern Africa, our mission and operations extend worldwide. We believe cybersecurity has no borders — and neither do we.
 
-At its core, Accurate Cyber Defense specializes in conducting cyber drills—simulated cyberattack scenarios that train organizations to detect, respond to, and recover from real-world threats. These exercises help institutions build practical response strategies, strengthen incident response teams, and uncover vulnerabilities before they can be exploited. The startup also offers cybersecurity awareness programs that empower individuals and organizations with the knowledge to recognize and mitigate common cyber threats.
+As cyber threats grow more advanced, including state-sponsored attacks, electromagnetic interference risks, and sophisticated infrastructure targeting, Accurate Cyber Defense is committed to protecting governments, enterprises, and critical systems across the globe.
 
-In addition to its educational and defensive training focus, Accurate Cyber Defense brings deep technical expertise in reverse engineering, binary analysis, and military-grade cybersecurity engineering. This unique blend of technical and strategic capabilities allows Accurate Cyber Defense to support critical infrastructure, defense agencies, and enterprise environments with precision.
+## 🎯 Mission
 
-As cyber threats grow more complex and frequent across Africa, Accurate Cyber Defense is committed to staying ahead of the curve—driven by innovation, expertise, and a mission to secure Malawi’s digital future and beyond. The startup's growing influence across southern Africa makes it a key player in shaping a resilient cybersecurity ecosystem in the region.
+To enhance global digital resilience by delivering advanced cybersecurity intelligence, defensive engineering, cyber drills, and infrastructure protection solutions that safeguard governments, institutions, and individuals — regardless of geography or origin.
 
-**Join our Telegram**
+We are committed to protecting people’s data, national infrastructure, and critical systems worldwide. Our purpose is not limited by where we come from — our responsibility is global.
 
+## 👁️ Vision
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/3abd1d3d-3645-458a-aecd-30232b18cfb1" />
+To become one of the world’s most trusted cybersecurity intelligence partners in defending government infrastructure, critical systems, and national digital assets against evolving adversaries.
 
-**##Our Skills**
+## 🧭 Strategic Objectives
 
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/Elm-1293D8?logo=elm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+* Conduct realistic cyber drills simulating advanced and state-level threat scenarios
 
+* Strengthen government and enterprise incident response capabilities
 
+* Protect critical national infrastructure from cyber and electromagnetic threats
 
+* Develop defensive strategies against government-level adversaries and advanced persistent threats (APTs)
+
+* Deliver high-level reverse engineering and binary analysis capabilities
+
+* Support data protection initiatives that safeguard citizens’ information
+
+* Promote international cooperation in cybersecurity defense and resilience
+
+## 🔐 Core Specializations
+🛡️ Cyber Drills & National Readiness Exercises
+
+Simulated cyberattack environments designed to test government and enterprise resilience against sophisticated threat actors.
+
+🧠 Cybersecurity Intelligence & Threat Analysis
+
+* Reverse Engineering
+
+* Binary & Malware Analysis
+
+* Threat Intelligence Research
+
+* Advanced Persistent Threat (APT) Investigation
+
+* ⚡ Electromagnetic & Infrastructure Defense Awareness
+
+* Research and defensive strategies focused on mitigating risks posed by:
+
+* Electromagnetic interference (EMI)
+
+* Infrastructure-level disruption attempts
+
+* Coordinated cyber-physical attacks
+
+## 🏛️ Government Infrastructure Protection
+
+* We focus on strengthening:
+
+* National digital infrastructure
+
+* Defense communication systems
+
+* Public sector platforms
+
+* Critical service networks
+
+## 📚 Cyber Awareness & Strategic Training
+
+Education programs tailored for government agencies and enterprises to reduce human-factor vulnerabilities and strengthen cyber readiness.
+
+## 💎 Core Values
+
+* Integrity – Ethical, confidential, and responsible operations.
+
+* National & Public Protection – Safeguarding citizens' data and critical services.
+
+* Excellence – Precision-driven cybersecurity engineering and intelligence.
+
+* Innovation – Staying ahead of adversarial evolution.
+
+* Resilience – Building systems capable of withstanding real-world pressure.
+
+* Global Responsibility – Cyber defense without borders.
+
+## 🚀 Why Accurate Cyber Defense?
+
+* ✔ Global-first cybersecurity intelligence startup
+* ✔ Specialized in government and critical infrastructure protection
+* ✔ Expertise in reverse engineering & advanced threat research
+* ✔ Defensive strategies against sophisticated adversaries
+* ✔ Focused on safeguarding citizens’ data and national systems
+* ✔ Forward-looking electromagnetic risk awareness
+
+## 🌐 Global Commitment
+
+Accurate Cyber Defense operates with a worldwide defensive mindset. From Africa to Europe, Asia, the Americas, and beyond — we are committed to strengthening cybersecurity ecosystems, protecting governments, and defending critical infrastructure wherever protection is required.
+
+## Protecting Governments. Securing Infrastructure. Defending Data.
+
+Accurate Cyber Defense
+Cybersecurity Intelligence • National Infrastructure Defense • Global Protection
