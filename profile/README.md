@@ -1,5 +1,8 @@
 ## 🛡️ Accurate Cyber Defense
 
+<img width="524" height="536" alt="lohj" src="https://github.com/user-attachments/assets/797d2351-912c-40cf-a8f3-760d7ed1e5a1" />
+
+
 Advancing Digital Resilience Worldwide — Protecting Critical Infrastructure & National Security
 
 ## 🌍 About Us
