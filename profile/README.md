@@ -1,7 +1,5 @@
 ## 🛡️ Accurate Cyber Defense
 
-<img width="1000" height="608" alt="malawi" src="https://github.com/user-attachments/assets/c397c50b-c685-4082-bc0e-60301f5768b0" />
-
 
 Advancing Digital Resilience Worldwide — Protecting Critical Infrastructure & National Security
 
